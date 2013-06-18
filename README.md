@@ -9,11 +9,11 @@ More about *ChromeLogger*: **http://craig.is/writing/chrome-logger**
 
 ## Installation
 
-Clone from Github. Put it on `'packages_dir/chromelogger'` directory.
+1. Clone from Github. Put it on `'packages_dir/chromelogger'` directory.
 
 	git clone git://github.com/neaplus/fuel-chromelogger.git
 
-Works with Fuel 1.6.1
+2. Also you need to install Chrome extension: **https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd**
 
 
 ## Configuration
@@ -40,6 +40,8 @@ ChromeLogger::Warn($_SERVER);
 ```
 
 #####You can log string, array or object to chrome console.
+
+**Works with Fuel 1.6.1**
 
 
 ### License
