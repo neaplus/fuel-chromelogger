@@ -41,7 +41,7 @@ ChromeLogger::Warn($_SERVER);
 
 #####You can log string, array or object to chrome console.
 
-**Works with Fuel 1.6.1**
+**Tested with Fuel 1.7.2 and Works with Fuel 1.6.1 and above**
 
 
 ### License
